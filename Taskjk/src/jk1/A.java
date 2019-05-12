@@ -9,6 +9,9 @@ public void m1() {
 	System.out.println(a+b);
 }
 	
+public void m2() {
+	System.out.println(a+b);
+}
 
 public static void main(String[] args) {
 A obj= new A();
